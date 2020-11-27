@@ -1,0 +1,126 @@
+/**
+ * Feuille de style personnalisée
+ ============================================ */
+img{
+    max-width: 100% ;
+} 
+
+.btn-primary {
+    background: #00113e;
+    color: #fff;
+}
+.btn-primary:hover {
+    background: #17a2b8;
+}
+.btn-secondary {
+    background: #00113e;
+    color: #fff;
+}
+.site-counter {
+    padding: 85px 0;
+    color: #fff;
+    background: #D5D8E0;
+}
+.site-footer {
+    background: #D5D8E0;
+    padding: 100px 0;
+}
+.site-footer-widget-description a {
+    color: #00113e;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: montserrat,sans-serif;
+    font-weight: 600;
+    color: #00113e;
+}
+
+.site-contact-title span {
+    color: #17a2b8;
+}
+.site-contact-title span {
+    color: #17a2b8;
+}
+.site-contact-title span {
+    color: #17a2b8;
+}
+.site-contact-title span {
+    color: #17a2b8;
+}
+.site-counter-item-number {
+    color: #00113e;
+    font-size: 12px;
+    margin-bottom: 0;
+    font-weight: 700;
+}
+.site-counter-item-title {
+    font-size: 30px;
+    font-weight: 300;
+}
+.site-counter {
+    color: #00113e;
+    background: #D5D8E0;
+}
+p {
+    font-size: 16px;
+    color: #117a8b;
+}
+.text-white {
+    color: #00113e!important;
+}
+.site-navigation .navbar-brand img {
+    max-width: 100px;
+}
+.site-footer-widget-title {
+    color: #00113e;
+    margin-bottom: 30px;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: montserrat,sans-serif;
+    font-weight: 600;
+    color: #00113e;
+}
+.site-footer-widget-description {
+    color: #00113e;
+    line-height: 30px;
+}
+.site-footer-widget-links li a {
+    color: #00113e;
+    transition: all .3s cubic-bezier(0.36,0.03,0,0.91);
+    display: block;
+}
+a {
+    color: #00113e;
+    text-decoration: none;
+    background-color: transparent;
+    -webkit-text-decoration-skip: objects;
+}
+.site-project-item-content span, .site-blog-post-content span {
+    font-family: montserrat,sans-serif;
+    color: #17a2b8;
+    display: block;
+    margin-bottom: 10px;
+}
+.site-project-pagination .pagination .page-item.active .page-link, .site-blog-pagination .pagination .page-item.active .page-link {
+    background-color: #117a8b;
+    color: #fff;
+}
+.site-project-item-content a.read-more, .site-blog-post-content a.read-more {
+    position: absolute;
+    bottom: 40px;
+    display: block;
+    width: 100%;
+    color: #117a8b;
+    opacity: 0;
+    transform: translateY(20px);
+    transition: all .3s cubic-bezier(0.36,0.03,0,0.91);
+}
+.site-project-cta {
+    color: #117a8b;
+}
+.site-project-cta:hover {
+    color: #00113e;
+}
+.site-project-cta::before {
+    background: #00113e;
+
+}

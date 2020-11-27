@@ -1,0 +1,11 @@
+enable : true
+heading : "Mes compétences"
+counter_item: 
+  - title: "Suite Adobe"
+    number: " Indesign, Illustrator, Photoshop, Première Pro "
+
+  - title: "Mes résaux"
+    number: "Linkedin/ Facebook/ Whatsapp/ Instagram"
+
+  - title: "Outils collaboratifs"
+    number: "Suite Google (Drive, Meet, Docs"

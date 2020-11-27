@@ -1,0 +1,102 @@
+# baseURL       = "http://example.org/"
+languageCode  = "fr-FR"
+title         = "Marie Canler"
+theme         = "roxo"
+summarylength = 25
+
+# Site Menus
+[menu]
+  # Navbar Menus
+  [[menu.nav]]
+    name    = "Accueil"
+    url     = ""
+    weight  = 1
+  [[menu.nav]]
+    name    = "À propos"
+    url     = "about"
+    weight  = 2
+  [[menu.nav]]
+    name    = "Portfolio"
+    url     = "portfolio"
+    weight  = 3
+ 
+  [[menu.nav]]
+    name    = "Contactez Moi"
+    url     = "contact"
+    weight  = 5
+
+# Site Params
+[params]
+  logo = "images/logo.png"
+  dateFormat = "26 FEB 1994"
+  # Meta data
+  description = "Roxo Hugo themes | Design Agency Template by StaticMania"
+  author = "StaticMania"
+  # Google Analitycs
+  googleAnalitycsID = "Your ID"
+  # We're using formspree.io for form handling, paste your formspree url below
+  formspreeFormUrl  = "https://formspree.io/myykjpje"
+  
+  # Navbar Action Button
+  [params.navAction]
+    status  = true
+    name    = "Get in touch"
+    url     = "contact"
+  
+
+  # Banner Section
+  [params.banner]
+    enable                = true
+    background_image      = "images/backgrounds/hero-background.jpg"
+  
+
+    primary_button_url    = "portfolio"
+
+    secondary_button_url  = "contact"
+
+  [params.portfolio]
+    enable    = true
+    title     = " Mes récents travaux "
+    subtitle  = " Le meilleurs moyen de prévoir le futur c'est de le créer "
+
+  [params.call_to_action]
+    enable              = true
+    background_image    = "images/backgrounds/cta-background.jpg"
+    title               = "Travaillons ensemble ! "
+    primary_button      = "Submit Query"
+    primary_button_url  = "contact"
+    secondary_button    = "Not Convinced"
+    secondary_button_url = "portfolio"
+
+  [params.footer]
+    # Footer Contact Info
+    [params.footer.contactInfo]
+      title   = "Contact Info"
+      address = " Rouen / Paris "
+      phone   = " Téléphone : + 33 06.33.48.30.16"
+      email   = " E-mail marie.canler.mclr@gmail.com"
+      # Footer Sitemap
+      [params.footer.sitemap]
+        title   = "Sitemap"
+        [[params.footer.sitemap.link]]
+          name = "À propos"
+          url  = "about"
+        [[params.footer.sitemap.link]]
+          name = "Portfolio"
+          url  = "portfolio"
+        [[params.footer.sitemap.link]]
+          name = "Contact"
+          url  = "contact"
+      # Footer Social Media
+      [params.footer.social]
+        title   = "Mes réseaux sociaux"
+        [[params.footer.social.link]]
+          name = "Linkedin"
+          url  = "https://www.linkedin.com/feed/"
+        [[params.footer.social.link]]
+          name = "Intagram"
+          url  = "https://www.instagram.com/?hl=fr"
+        [[params.footer.social.link]]
+          name = "Youtube"
+          url  = "https://studio.youtube.com/channel/UC1EhLJEixSPdPa_8wFa3l3A/videos/upload?filter=%5B%5D&sort=%7B%22columnType%22%3A%22date%22%2C%22sortOrder%22%3A%22DESCENDING%22%7D"
+     

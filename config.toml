@@ -94,7 +94,7 @@ summarylength = 25
           name = "Linkedin"
           url  = "https://www.linkedin.com/feed/"
         [[params.footer.social.link]]
-          name = "Intagram"
+          name = "Instagram"
           url  = "https://www.instagram.com/?hl=fr"
         [[params.footer.social.link]]
           name = "Youtube"

@@ -124,3 +124,13 @@ a {
     background: #00113e;
 
 }
+
+.site-contact-content p {
+    font-size: 1.4em;
+}
+.site-contact-infos {
+    background: white;
+    padding: 2em;
+    border-radius: 20px;
+    box-shadow: 0 15px 30px rgba(0,17,52,0.2);
+}

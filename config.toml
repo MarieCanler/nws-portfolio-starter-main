@@ -72,9 +72,9 @@ summarylength = 25
     # Footer Contact Info
     [params.footer.contactInfo]
       title   = "Contact Info"
-      address = " Rouen / Paris "
-      phone   = " Téléphone : + 33 06.33.48.30.16"
-      email   = " E-mail marie.canler.mclr@gmail.com"
+      address = "Rouen / Paris"
+      phone   = "+330633483016"
+      email   = "marie.canler.mclr@gmail.com"
       # Footer Sitemap
       [params.footer.sitemap]
         title   = "Sitemap"

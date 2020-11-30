@@ -8,8 +8,28 @@
         </h1>
       </div>
       <div class="col-lg-6 ml-auto">
-        <div class="site-contact-form">
-          <h4>{{ .Params.form_heading }}</h4>
+
+        <div class="site-contact-content">
+          {{ .Content }}
+        </div>
+
+        <div class="site-contact-infos">
+          <h4>Me contacter</h4>
+          {{ with .Site.Params.footer.contactInfo }}
+
+
+
+          <p class="site-footer-widget-description">
+            {{ .address | safeHTML }}
+            <br>
+            Par téléphone : <a href="tel:{{ .phone }}">{{ .phone }}</a>
+            <br>
+            Par email : <a href="mailto:{{ .email }}">{{ .email }}</a>
+          </p>
+
+
+          {{ end }}
+          <!--
           <form id="contact-form" action="{{ .Site.Params.formspreeFormUrl }}" method="POST">
             <div class="row">
               <div class="col-lg-6">
@@ -45,6 +65,7 @@
               <p id="contact-form-status"></p>
             </div>
           </form>
+          -->
         </div>
       </div>
     </div>

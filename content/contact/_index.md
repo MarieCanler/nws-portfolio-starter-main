@@ -5,3 +5,5 @@ heading       : "Ne soyez pas timide ! Dites <span>Bonjour !</span>"
 form_heading  : "Parlez moi de votre sujet"
 ---
 
+Si vous voulez me parler de votre sujet, n'hésitez pas à me contacter aux adresses suivantes ! 
+Je serais contente d'en apprendre plus sur vos projets. Au plaisir de vous lire !

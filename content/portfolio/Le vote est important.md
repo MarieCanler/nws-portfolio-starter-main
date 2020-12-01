@@ -13,7 +13,7 @@ category: ["Vidéo court métrage"]
 
 Ce court métrage est un exercice de montage vidéo.  
 
-Le concept est simple : trouver 15 vidéos sur un site du nom  de "pexels" et crée une mini histoire a travers les vidéos sélectionées. 
+Le concept est simple : trouver 15 vidéos sur un site du nom  de "Pexels" et crée une mini histoire à travers des vidéos sélectionées. 
 
-Logiciel utilisé : Première pro
+Logiciel utilisé : Première Pro
 

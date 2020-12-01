@@ -57,7 +57,7 @@ summarylength = 25
   [params.portfolio]
     enable    = true
     title     = " Mes récents travaux "
-    subtitle  = " Le meilleurs moyen de prévoir le futur c'est de le créer "
+    subtitle  = " Le meilleur moyen de prévoir le futur c'est de le créer "
 
   [params.call_to_action]
     enable              = true

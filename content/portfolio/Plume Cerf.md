@@ -10,7 +10,7 @@ category: ["Exercice"]
 
 Ce Cerf est issue d'un exercice pour apprendre à utiliser le logiciel photoshop ainsi que l'outil plume. 
 
-J'ai choisie la couleur bordeau car c'est l'une de mes couleurs préféré.
+J'ai choisi la couleur bordeaux car c'est l'une de mes couleurs préféré.
 
 Logiciel : Illustrator
 

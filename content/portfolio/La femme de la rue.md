@@ -10,8 +10,8 @@ category: ["Affiche"]
 ![Alt de mon image](/images/projects/La_Femme_de_la_rue.jpg)
 
 
-Cette affiche est issue d'un exercice pour apprendre à utiliser le logiciel photoshop. 
-le concept est le suivant : choisir un titre donner et trouver une image sur Unsplash. Et mettre les éléments important 
+Cette affiche est issue d'un exercice pour apprendre à utiliser le logiciel Photoshop. 
+le concept est le suivant : choisir un titre, donner et trouver une image sur Unsplash et de mettre les éléments importants. 
 
 
 
